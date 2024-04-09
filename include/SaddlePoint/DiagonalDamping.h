@@ -7,7 +7,6 @@
 // obtain one at http://mozilla.org/MPL/2.0/.
 #ifndef SADDLEPOINT_DIAGONAL_DAMPING_H
 #define SADDLEPOINT_DIAGONAL_DAMPING_H
-#include <igl/diag.h>
 #include <Eigen/Core>
 #include <Eigen/Sparse>
 #include <string>
